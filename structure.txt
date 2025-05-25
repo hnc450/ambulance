@@ -1,0 +1,19 @@
+/
+├── index.html (page d'accueil)
+├── commande.html (page de commande)
+├── localisation.html (page de localisation/suivi)
+├── services.html (page des services)
+├── tarifs.html (page des tarifs)
+├── contact.html (page de contact)
+├── a-propos.html (page à propos)
+├── suivi.html (page de suivi)
+├── css/
+│   ├── style.css (styles globaux)
+│   └── responsive.css (styles responsives)
+├── js/
+│   ├── main.js (fonctions générales)
+│   ├── commande.js (logique de commande)
+│   ├── localisation.js (logique de localisation)
+│   └── suivi.js (logique de suivi)
+└── img/
+    └── (images du site)
